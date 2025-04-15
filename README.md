@@ -10,6 +10,7 @@
 - 📊 Skilled in data analysis, **data visualization, **statistics, and **predictive modeling.
 - 🧠 Continuously learning about new tools, algorithms, and technologies.
 - 🎓 Background in Computer Science & Applications from Kumaun University Nainital Uttarakhand.
+- 🎓 Certified By Google through Cousera as Google Advanced Data Analytics Capstone | SQL for Data Science | Udemy Python 
 
 ---
 
